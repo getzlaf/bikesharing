@@ -9,3 +9,7 @@ The purpose of this analysis is to see how people from New York City use the Cit
 First, we break down who use this system the most. As we can see below, the men use the bikesharing more than the women.
 
 ![](gender_distribution.png)
+
+Second, we can see that men and women mostly use the bike less than a hour. The peak for men is at 5 minutes and 6 for women. 
+
+![](checkout_gender.png)
