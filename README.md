@@ -38,4 +38,8 @@ Seventh, when we aggregate the checkout times for the users we see that people m
 
 As we can see, people mostly use the bikes to go and to comeback from work. They use them less than a hour per checkout and people also like to use them on the weekends. However, it is New York City so on the weekends we might expect a lot of tourists who use the bikes. Further research might guide us to see if it's the subscribers or the one time users who use the bikes the most on the weekends. We would also like to know the distance the people do with the bikes per checkout. It could guide us to see where bike stations need to be in Des Moines. 
 
+For more information, please consult this Tableau Story :
+
+[link to dashboard](https://public.tableau.com/app/profile/leandre.leblanc/viz/Book1_16444390570760/NYCBikesharing)
+
 ### 
